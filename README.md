@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DarrellH32
 - 👀 I’m interested in ... learning to code
-- 🌱 I’m currently learning ... Java
+- 🌱 I’m currently learning ... C++
 - 💞️ I’m looking to collaborate on ... Anything
 - 📫 How to reach me ... FLAIMe#3730 on discord
 
